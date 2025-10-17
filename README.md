@@ -6,7 +6,7 @@ I'm a 5th year student at Cavite State University Campus and at the same time an
 
 ---
 
-### <h3 align="left">Connect with me:</h3>
+### 🤝🏻 Connect with me
 <p align="left">
 <a href="https://fb.com/cld.kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cld.kent0" height="30" width="40" /></a>
 <a href="https://twitter.com/cld_kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cld_kent0" height="30" width="40" /></a>
