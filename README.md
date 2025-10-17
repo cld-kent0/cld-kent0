@@ -1,4 +1,4 @@
-# Kent Claud
+# ☁ Kent Claud ️
 **`Student / IT Intern`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
