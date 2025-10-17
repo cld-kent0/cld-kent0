@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kent Claud</h1>
+<h1 align="center">Kent Claud</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
 
-- 🔭 I’m currently on Internship at **The Naval Logistics Center**
+- 🌱 I’m currently finishing my Bachelor's in **Information Technology** at **Cavite State University - Cavite City Campus**
 
-- 🌱 I’m currently finishing my Bachelor's in **Information Technology**
+- 🔭 An IT intern at **The Naval Logistics Center**
 
-- 📫 How to reach me <a href="mailto:cjerel27@gmail.com">**Email**</a>
+- 📫 How to reach me? <a href="mailto:cjerel27@gmail.com">**Email**</a>
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGfXTExlhQ/sVyrvS90yDauPBc3EZtz0Q/view?utm_content=DAGfXTExlhQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c3f5f953d](https://www.canva.com/design/DAGfXTExlhQ/sVyrvS90yDauPBc3EZtz0Q/view?utm_content=DAGfXTExlhQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c3f5f953d)
+- 📄 Know about my experiences here: <a href="https://www.canva.com/design/DAGfXTExlhQ/sVyrvS90yDauPBc3EZtz0Q/view?utm_content=DAGfXTExlhQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c3f5f953d">**CV**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
