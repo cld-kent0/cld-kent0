@@ -1,8 +1,8 @@
 # Kent Claud
-**`5th yr. Student / IT Intern at The Naval Logistics Center`**
+**`Student / IT Intern`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
-I'm a 5th year student at Cavite State University Campus and at the same time an IT Intern at The Naval Logistics Center.
+I'm a 5th year student at Cavite State University Campus and at the same time an IT Intern at The Naval Logistics Center. Currently improving my skills on JavaScript and CSS with Next.js framework in mind.
 <a href="https://www.canva.com/design/DAGfXTExlhQ/sVyrvS90yDauPBc3EZtz0Q/view?utm_content=DAGfXTExlhQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c3f5f953d">**CV**</a>
 
 ---
