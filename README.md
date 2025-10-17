@@ -1,5 +1,5 @@
 # Kent Claud
-**`Student / Information Technology Intern`**
+**`5th yr. Student / IT Intern at The Naval Logistics Center`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
 
@@ -41,7 +41,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cld-kent0&show_icons=true&locale=en&layout=compact" alt="cld-kent0" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cld-kent0&show_icons=true&locale=en&layout=compact" alt="cld-kent0" /></p>
 
 #
 
