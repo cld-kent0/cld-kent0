@@ -2,7 +2,7 @@
 **`College Student / IT Intern`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
-I'm a 5th-year college student at Cavite State University Campus, and at the same time, an IT Intern at The Naval Logistics Center. Currently improving my skills in JavaScript and CSS with Next.js framework in mind.
+I'm a 5th-year college student at Cavite State University - Cavite City Campus, and I'm also an IT Intern at The Naval Logistics Center. Currently learning VueJS and NodeJS.
 
 ---
 
