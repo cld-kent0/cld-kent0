@@ -2,7 +2,7 @@
 **`College Student / IT Intern`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
-I'm a 5th-year college student at Cavite State University - Cavite City Campus, and I'm also an IT Intern at The Naval Logistics Center. Currently learning Vue.js and Express.js.
+I'm a 5th-year college student who's quite passionate about computer hardware. I am currently working on my GitHub portfolio website while learning Vue.js and Express.js.
 
 ---
 
