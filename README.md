@@ -2,19 +2,19 @@
 **`College Student / IT Intern`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
-I'm a 5th-year college student at Cavite State University - Cavite City Campus, and I'm also an IT Intern at The Naval Logistics Center. Currently learning VueJS and NodeJS.
+I'm a 5th-year college student at Cavite State University - Cavite City Campus, and I'm also an IT Intern at The Naval Logistics Center. Currently learning Vue.js and Express.js.
 
 ---
 
 ### 🤝🏻 Connect with me
 <p align="left">
+<a href="https://github.com/cld-kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cld-kent0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cld-kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cld-kent0" height="30" width="40" /></a>
 <a href="https://fb.com/cld.kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cld.kent0" height="30" width="40" /></a>
 <a href="https://twitter.com/cld_kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cld_kent0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cld-kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cld-kent0" height="30" width="40" /></a>
 </p>
 
 #
-
 
 ### 🧰 Languages and Tools
 <p align="left"> 
@@ -41,4 +41,3 @@ I'm a 5th-year college student at Cavite State University - Cavite City Campus, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cld-kent0&show_icons=true&locale=en" alt="cld-kent0" /></p>
 
 #
-
