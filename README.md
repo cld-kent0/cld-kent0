@@ -1,8 +1,8 @@
 # ☁ Kent Claud ️
-**`College Student / IT Intern`**
+**`College Student / Ex-IT Intern (Naval Logistics Center, LC6-C4ISR)`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cld-kent0&label=Profile%20views&color=0e75b6&style=flat" alt="cld-kent0" /> </p>
-I'm a 5th-year college student who's extremely passionate about computer hardware and setup ergonomics. I am currently working on my portfolio website while learning Vue.js, Tailwind CSS, and Express.js.
+5th-year college student who's extremely passionate about computer hardware and setup ergonomics. I am currently working on my portfolio website while learning Vue.js, Tailwind CSS, and Express.js.
 
 ---
 
