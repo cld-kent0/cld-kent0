@@ -6,7 +6,7 @@
 
 ---
 
-### 🤝🏻 Connect with me
+### 🤝🏻 Connections
 <p align="left">
 <a href="https://github.com/cld-kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cld-kent0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cld-kent0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cld-kent0" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 
 #
 
-### 🧰 Languages and Tools
+### 🧰 Prog. Langs and Tools
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> 
